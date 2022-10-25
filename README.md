@@ -1,12 +1,12 @@
 ```
-Nama : Novia Riska Aulia
-NIM : 19.01.013.080
-Kelas : Sains Data 
+Nama      : Novia Riska Aulia
+NIM       : 19.01.013.080
+Kelas     : Sains Data 
 ```
 
 Training Data Sempel Pada RepidMiner
 
-- Dataset
+- Dataset Golf (Klasifikasi)
 ![image](https://user-images.githubusercontent.com/105399054/197677239-785837fc-8a79-4cc1-9b26-cf7a2e94e757.png)
 
 - Design
