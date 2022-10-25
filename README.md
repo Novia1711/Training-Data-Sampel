@@ -12,7 +12,7 @@ Training Data Sempel Pada RepidMiner
 
 - Algoritma (Menggunakan Algoritma Decision Tree)
 
-![2022-10-25](https://user-images.githubusercontent.com/105399054/197677063-d44de9ee-47c3-4f22-a8dd-a2460de2d38e.png)
+![2022-10-25 (3)](https://user-images.githubusercontent.com/105399054/197680471-0d13b2a2-20c5-4e28-88d3-c71ac9b3e54e.png)
 
 - Pola
 
