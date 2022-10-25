@@ -9,7 +9,7 @@ Training Data Sempel Pada RepidMiner
 - Dataset Golf (Klasifikasi)
 ![image](https://user-images.githubusercontent.com/105399054/197677239-785837fc-8a79-4cc1-9b26-cf7a2e94e757.png)
 
-- Design
+- Algoritma (Menggunakan Algoritma Decision Tree)
 ![2022-10-25](https://user-images.githubusercontent.com/105399054/197677063-d44de9ee-47c3-4f22-a8dd-a2460de2d38e.png)
 
 - Pola
